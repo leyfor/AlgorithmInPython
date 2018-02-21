@@ -1,3 +1,4 @@
+# Selection Sort Algorithm
 
 def selectionSort(alist):
     for fillSlot in range(len(alist)-1, 0, -1):

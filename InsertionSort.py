@@ -1,3 +1,5 @@
+# Insertion Sort Algorithm
+
 def insertionSort(alist):
     for index in range(1, len(alist)):
         currentValue = alist[index]
